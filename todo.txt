@@ -1,0 +1,14 @@
+NORMALE
+
+
+ARRAY
+
+quadrato asterischi
+verificare se tutti i numeri inseriti sono uguali
+quanti sono i numeri pari/dispari fino ad un certo massimo/minimo?
+Sommatoria pari e dispari array
+chiedere numeri fin quando la somma fa 100
+chidere numeri fin quando si mette 0
+
+parola sbagliata?
+
